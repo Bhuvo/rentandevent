@@ -46576,7 +46576,7 @@ F(a){var s=null
 return A.F7(s,s,A.dJ(A.OZ(B.WW,this.ga1r()),s,s),s,s)},
 pV(){var s=0,r=A.G(t.H),q,p,o,n,m,l,k,j
 var $async$pV=A.H(function(a,b){if(a===1)return A.D(b,r)
-while(true)switch(s){case 0:k=A.a(["email","https://www.googleapis.com/auth/contacts.readonly"],t.s)
+while(true)switch(s){case 0:k=A.a(["email"],t.s)
 j=new A.Ps(k,"27909173186-jn613cjklqvfchg6sme7f7c7i8c3a1rn.apps.googleusercontent.com",new A.d3(null,null,t.io))
 j.za()
 k=$.d7
